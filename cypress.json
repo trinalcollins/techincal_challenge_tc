@@ -1,0 +1,9 @@
+{
+  "defaultCommandTimeout": 20000,
+  "chromeWebSecurity:": "true",
+  "videoUploadOnPasses": false,
+  "baseUrl": "https://www.medicines.org.uk/emc/browse-companies/",
+  "env": {
+      "cypressEnv": "dev"
+  }
+}
