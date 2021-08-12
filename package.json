@@ -1,0 +1,24 @@
+{
+  "name": "reach_technical_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.0",
+    "cypress": "^8.2.0"
+  },
+  "scripts": {
+    "test": "npx cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinalcollins/techincal_challenge_tc.git"
+  },
+  "author": "Trina_Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinalcollins/techincal_challenge_tc/issues"
+  },
+  "homepage": "https://github.com/trinalcollins/techincal_challenge_tc#readme"
+}
