@@ -1,0 +1,25 @@
+{
+  "name": "Valneva UK Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Centaur House, Ancells Business Park, Ancells Road, Fleet, GU51 2UJ, UK"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+ enquiries +44 (0)1506 446 608"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "Safety@valneva.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.valneva.co.uk"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@valneva.com"
+    }
+  ]
+}

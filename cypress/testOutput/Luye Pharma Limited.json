@@ -1,0 +1,53 @@
+{
+  "name": "Luye Pharma Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "1st Floor, Gallery Court, Arcadia Avenue, London, N3 2FG, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)2071 298660"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinfo@ldcollins.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "enquiries@ldcollins.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://ldcollins.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)2071 298660"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)2071 298660"
+    },
+    {
+      "Title": "Address",
+      "Value": "Horizon, Honey Lane, Hurley, Berkshire, SL6 6RJ, UK"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical-info.uk@leo-pharma.com"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1844 347 333"
+    },
+    {
+      "Title": "Address",
+      "Value": "Surrey Technology Centre, 40 Occam Road, Surrey Research Park, Guildford, GU2 7YG"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "safety@luyepharma.co.uk"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Marlborough Pharmaceuticals Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Allenby Laboratories, Wigan Road, Westhoughton, Bolton, BL5 2AL"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0 ) 1942 852085"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1942 852 085"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0) 1942 816184"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.mapharmachem.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1942 813699"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "info@mapharmachem.co.uk"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44(0) 1942 813699"
+    },
+    {
+      "Title": "Address",
+      "Value": "Sovereign House, Miles Gray Road, Basildon, SS14 3FR"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1268 943 700"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1279 406 759"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.marlborough-pharma.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1268 594 778"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Kyowa Kirin Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Klara Norra Kyrkogata 33, Stockholm, Sweden"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0) 8000461977"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "MedinfoUK@karopharma.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "supply@karopharma.se"
+    },
+    {
+      "Title": "WWW",
+      "Value": "https://www.karopharma.com/"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0) 1628 531171"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0) 8000461977"
+    },
+    {
+      "Title": "Address",
+      "Value": "Unit 9 Cabot Business Village, Holyrood Close, Poole,, Dorset, BH17 7BA, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "01202 696963"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "info@kestrelophthalmics.co.uk"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "01202 696963"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.kestrelophthalmics.co.uk"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "01202 696963"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "01202 696963"
+    },
+    {
+      "Title": "Address",
+      "Value": "Galabank Business Park, Galashiels, TD1 1QH"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@kyowakirin.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+ 44 (0)1896 664 000"
+    }
+  ]
+}

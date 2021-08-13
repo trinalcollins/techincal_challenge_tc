@@ -1,0 +1,25 @@
+{
+  "name": "Eisai Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "EMEA Knowledge Centre, Mosquito Way, Hatfield, Hertfordshire, AL10 9SN"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44(0)208 600 1400"
+    },
+    {
+      "Title": "Out of Hours Telephone",
+      "Value": "+44 (0)208 600 1400"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.eisai.eu"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "EUMedInfo@eisai.net"
+    }
+  ]
+}

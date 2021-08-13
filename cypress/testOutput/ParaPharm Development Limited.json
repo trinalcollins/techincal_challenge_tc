@@ -1,0 +1,61 @@
+{
+  "name": "ParaPharm Development Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Unit 302, Parkshot House , 5 Kew Road, Richmond, London, TW9 2PR, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 2045669480"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@paion.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "ukcustomerservice@clinigengroup.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.paion.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+800 4453 4453"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "01932 824 100"
+    },
+    {
+      "Title": "Address",
+      "Value": "Merlin House, Brunel Road, Theale, Reading, RG7 4AB, UK"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)118 902 6778"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "info@parapharmdev.com"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0)118 902 6778"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)118 902 6777"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1183 217 100"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)118 902 6777"
+    }
+  ]
+}

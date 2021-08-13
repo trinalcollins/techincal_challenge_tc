@@ -1,0 +1,53 @@
+{
+  "name": "Ferndale Pharmaceuticals Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "The Bower, 4 Roundwood Avenue, Stockley Park, Heathrow, UB11 1AF"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0845 437 5565"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1233 506 574"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "0800 220 280"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.kentpharm.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "0845 437 5567"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical@kent-athlone.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "Unit 740 Thorp Arch Estate, Wetherby, LS23 7FX"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1937 541122"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "info@ferndalepharma.co.uk"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.ferndalepharma.co.uk"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+ 44(0)1937 541122"
+    }
+  ]
+}

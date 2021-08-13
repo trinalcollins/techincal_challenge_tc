@@ -1,0 +1,25 @@
+{
+  "name": "Qdem Pharmaceuticals Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Cambridge Science Park, Milton Road, Cambridge, CB4 0AB"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44(0)1223 426 929"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44(0)1223 426 929"
+    },
+    {
+      "Title": "WWW",
+      "Value": "Http://www.qdem.co.uk"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44(0)1223 426 929"
+    }
+  ]
+}

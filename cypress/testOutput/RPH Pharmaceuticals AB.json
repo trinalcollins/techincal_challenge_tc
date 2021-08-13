@@ -1,0 +1,85 @@
+{
+  "name": "RPH Pharmaceuticals AB",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "5th Floor, Hyde Park, Hayes, 3, 11 Millington Road, Hayes, UB3 4AZ, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0) 208 848 8688"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0) 208 848 5052"
+    },
+    {
+      "Title": "Out of Hours contact",
+      "Value": "medinfoeurope@sunpharma.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.sunpharma.com"
+    },
+    {
+      "Title": "E-mail",
+      "Value": "Cserv.uk@sunpharma.com"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfoeurope@sunpharma.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "RB Consumer Relations, PO Box 4644, SLOUGH, SL1 0NS, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0333 2005 345"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "0333 2005 345"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.reckittbenckiser.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "0333 2005 345"
+    },
+    {
+      "Title": "Address",
+      "Value": "Lagervagen 7, Jordbro, Sweden"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)845 023 0467"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 207 862 1716"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44(0)845 023 0467"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.recipharm.com"
+    },
+    {
+      "Title": "E-mail",
+      "Value": "customer.care@recipharm.com"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "safety@elc-group.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "+44(0)845 023 0467"
+    }
+  ]
+}

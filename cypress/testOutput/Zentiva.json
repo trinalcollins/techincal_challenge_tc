@@ -1,0 +1,25 @@
+{
+  "name": "Zentiva",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "12 New Fetter Lane, LONDON, EC4A 1JP, UK"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)800 090 2408"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)844 8793 188"
+    },
+    {
+      "Title": "E-mail",
+      "Value": "gfd-customerservices@zentiva.com"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "UKMedInfo@zentiva.com"
+    }
+  ]
+}

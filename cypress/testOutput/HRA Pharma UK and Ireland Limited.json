@@ -1,0 +1,69 @@
+{
+  "name": "HRA Pharma UK and Ireland Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Nexus, Gloucester Business Park, Gloucester, GL3 4AG, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1452 621 661"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "drug.safety@hameln-pharma.co.uk"
+    },
+    {
+      "Title": "WWW",
+      "Value": "https://www.hameln-pharma.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1452 632 732"
+    },
+    {
+      "Title": "Address",
+      "Value": "Via Glauco Gottardi, 100, Modena (MO), 41125, Italy"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0039 0592 058 070"
+    },
+    {
+      "Title": "E-mail",
+      "Value": "holoclar.uk@holostem.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.holostem.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "0039 059 205 8115"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "0039 340 59 036 08"
+    },
+    {
+      "Title": "Address",
+      "Value": "Haines House, Ground Floor Office, 21 John Street, London, WC1N 2BF, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)20 3750 1720"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "med.info.uk@hra-pharma.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.hra-pharma.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)800 917 9548"
+    }
+  ]
+}

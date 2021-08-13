@@ -1,6 +1,29 @@
 {
   "name": "A. Menarini Farmaceutica Internazionale SRL",
-  "companyAddress": "\n\t\t\t\tMenarini House, Mercury Park, Wycombe Lane, Wooburn Green, Buckinghamshire, HP10 0HH\n\t",
-  "companyTelephone": "\n\t\t\t\t0800 085 8678\n\t",
-  "companyEmail": "\n\t\t\t\tmenarini@medinformation.co.uk\n\t\t\t\t\n\t"
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Menarini House, Mercury Park, Wycombe Lane, Wooburn Green, Buckinghamshire, HP10 0HH"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0) 1628 856402"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "menarini@medinformation.co.uk"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0800 085 8678"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "0800 085 8678"
+    },
+    {
+      "Title": "Out of Hours Telephone",
+      "Value": "0800 085 8678"
+    }
+  ]
 }

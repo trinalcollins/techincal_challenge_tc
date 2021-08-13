@@ -1,0 +1,21 @@
+{
+  "name": "Napp Pharmaceuticals Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Cambridge Science Park, Milton Road, Cambridge, Cambridgeshire, CB4 0GW"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1223 424 444"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.napp.co.uk"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinformationuk@napp.co.uk"
+    }
+  ]
+}

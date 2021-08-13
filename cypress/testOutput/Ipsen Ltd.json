@@ -1,0 +1,73 @@
+{
+  "name": "Ipsen Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "The Townhouse, 114-116 Fore Street, Hertford,, Herts, SG14 1AJ, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+46 (0)8 533 39 500"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical@immedica.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.immedica.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+46 (0)8 533 39 500"
+    },
+    {
+      "Title": "Address",
+      "Value": "First Floor Q1, The Square, Randalls Way, Leatherhead, Surrey, KT22 7TW, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 800 7833711"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "00800 000 274 23"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.incyte.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "0800 0669105"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "eumedinfo@incyte.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "190 Bath Road, Slough, Berkshire, SL1 3XE"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1753 627 778"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo.uk-ie@ipsen.com"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1753 627 777"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1753 627 777"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1753 627 627"
+    }
+  ]
+}

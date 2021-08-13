@@ -1,0 +1,69 @@
+{
+  "name": "Otsuka Pharmaceuticals (UK) Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "The Zenith Building, 26 Spring Gardens, Manchester, Lancashire, M2 1AB"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)161 837 3770"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo.uk@octapharma.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.octapharma.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)161 837 3799"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0)161 837 3799"
+    },
+    {
+      "Title": "Address",
+      "Value": "2nd Floor, Palmerston House, Dublin 2, Ireland"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "currax.mi@primevigilance.com"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 203 905 2657"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "0800-051-6402"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "0800-051-6402"
+    },
+    {
+      "Title": "Address",
+      "Value": "Gallions, Wexham Springs, Framewood Road, Wexham, SL3 6PJ, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)20 3747 5300"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical.information@otsuka-europe.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.otsuka-europe.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)20 8848 0529"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Wockhardt UK Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Wallace House, New Abbey Court, 51-53 Stert Street, Abingdon, Oxon, OX14 3JF, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44(0) 1235 538 700"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1235 538 700"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0)1235 538 800"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.alinter.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1235 538 800"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1235 538 700"
+    },
+    {
+      "Title": "Address",
+      "Value": "Ash Road North, Wrexham Industrial Estate, Wrexham, LL13 9UF"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1978 661 261"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "Drug.Safety@wockhardt.co.uk"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.wockhardt.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1978 661 702"
+    }
+  ]
+}

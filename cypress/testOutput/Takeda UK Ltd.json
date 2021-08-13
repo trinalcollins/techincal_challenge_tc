@@ -1,0 +1,29 @@
+{
+  "name": "Takeda UK Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "1 Kingdom Street, London, W2 6BD, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 3333 000 181"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfoemea@takeda.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.takeda.com/en-gb/"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)3333 000 181"
+    },
+    {
+      "Title": "Drug Safety e-mail",
+      "Value": "AE.GBR-IRL@takeda.com"
+    }
+  ]
+}

@@ -1,5 +1,89 @@
 {
   "name": "CSL Behring UK Limited",
-  "companyAddress": "\n\t\t\t\t4 Milton Road, Haywards Heath, West Sussex, RH16 1AH, UK\n\t",
-  "companyEmail": "\n\t\t\t\tmedinfo@cslbehring.com\n\t\t\t\t\n\t"
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Ideon Science Park, SE-223 70 Lund, Sweden"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+800 2577 2577"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinfo@camurus.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "+44 (0)1773 4741 701"
+    },
+    {
+      "Title": "WWW",
+      "Value": "https://www.camurus.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+800 2577 2577"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1773 441 701"
+    },
+    {
+      "Title": "Address",
+      "Value": "1 Longwalk Road, Stockley Park, Uxbridge, UB11 1DB, UK"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "0800 731 1736"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "UK +44 (0)208 831 8483"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)208 831 8300"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical.information@bms.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "Northern Ireland +44 (0)208 831 8483"
+    },
+    {
+      "Title": "Address",
+      "Value": "4 Milton Road, Haywards Heath, West Sussex, RH16 1AH, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1444 447 400"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1444 447 405"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1444 447 402"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.cslbehring.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1444 447 403"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@cslbehring.com"
+    },
+    {
+      "Title": "Out of Hours contact",
+      "Value": "+44 (0)1444 447 405"
+    }
+  ]
 }

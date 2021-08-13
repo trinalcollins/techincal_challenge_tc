@@ -1,0 +1,25 @@
+{
+  "name": "hameln pharma ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Nexus, Gloucester Business Park, Gloucester, GL3 4AG, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1452 621 661"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "drug.safety@hameln-pharma.co.uk"
+    },
+    {
+      "Title": "WWW",
+      "Value": "https://www.hameln-pharma.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1452 632 732"
+    }
+  ]
+}

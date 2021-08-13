@@ -1,0 +1,69 @@
+{
+  "name": "GW Pharma Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "The Bower, 4 Roundwood Avenue, Stockley Park, Heathrow, UB11 1AF, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0845 437 5565"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1233 506 574"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "0800 220 280"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.kentpharm.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "0845 437 5567"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical@kent-athlone.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "Seagoe Industrial Estate, Craigavon, BT63 5UA, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)28 3833 4974"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "customer.services@galen-pharma.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.galen-pharma.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)28 3835 0206"
+    },
+    {
+      "Title": "Address",
+      "Value": "Sovereign House, Vision Park, Chivers Way, Histon, Cambridge, CB24 9BZ"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "01223 238170"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.gwpharm.co.uk"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@gwpharm.com"
+    }
+  ]
+}

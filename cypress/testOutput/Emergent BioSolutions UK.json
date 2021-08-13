@@ -1,0 +1,53 @@
+{
+  "name": "Emergent BioSolutions UK",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "EMEA Knowledge Centre, Mosquito Way, Hatfield, Hertfordshire, AL10 9SN"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44(0)208 600 1400"
+    },
+    {
+      "Title": "Out of Hours Telephone",
+      "Value": "+44 (0)208 600 1400"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.eisai.eu"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "EUMedInfo@eisai.net"
+    },
+    {
+      "Title": "Address",
+      "Value": "Building 3, Chiswick Park, 566 Chiswick High Road, London, W4 5YA"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0800 060 8702"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "0800 088 5449"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "0845 080 5190"
+    },
+    {
+      "Title": "WWW",
+      "Value": "https://emergenttravelhealth.uk/"
+    },
+    {
+      "Title": "E-mail",
+      "Value": "infouk@ebsi.com"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinformation@ebsi.com"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Novo Nordisk Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Cambridge Science Park, Milton Road, Cambridge, Cambridgeshire, CB4 0GW"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1223 424 444"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.napp.co.uk"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinformationuk@napp.co.uk"
+    },
+    {
+      "Title": "Address",
+      "Value": "Mill Studio, Crane Mead, Ware,, Herts, SG12 9PY"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1920 444345"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "office@neonhealthcare.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "office@neonhealthcare.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.neonhealthcare.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1920 444345"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1920 444345"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "+44 (0)1920 444345"
+    },
+    {
+      "Title": "Address",
+      "Value": "3 City Place, Beehive Ring Road, Gatwick, West Sussex, RH6 0PA"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1293 613555"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)800 023 2573"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)800 023 2573"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.novonordisk.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1293 613535"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "CustomerCare@novonordisk.com"
+    }
+  ]
+}

@@ -1,33 +1,33 @@
 {
-  "name": "Camurus AB",
+  "name": "Karo Pharma AB",
   "customerDetails": [
     {
       "Title": "Address",
-      "Value": "Ideon Science Park, SE-223 70 Lund, Sweden"
+      "Value": "Klara Norra Kyrkogata 33, Stockholm, Sweden"
     },
     {
       "Title": "Telephone",
-      "Value": "+800 2577 2577"
+      "Value": "+44 (0) 8000461977"
     },
     {
       "Title": "Medical Information e-mail",
-      "Value": "medicalinfo@camurus.com"
+      "Value": "MedinfoUK@karopharma.com"
     },
     {
       "Title": "Stock Availability",
-      "Value": "+44 (0)1773 4741 701"
+      "Value": "supply@karopharma.se"
     },
     {
       "Title": "WWW",
-      "Value": "https://www.camurus.com"
+      "Value": "https://www.karopharma.com/"
     },
     {
       "Title": "Medical Information Direct Line",
-      "Value": "+800 2577 2577"
+      "Value": "+44 (0) 1628 531171"
     },
     {
       "Title": "Customer Care direct line",
-      "Value": "+44 (0)1773 441 701"
+      "Value": "+44 (0) 8000461977"
     }
   ]
 }

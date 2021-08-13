@@ -1,0 +1,25 @@
+{
+  "name": "Immedica",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "The Townhouse, 114-116 Fore Street, Hertford,, Herts, SG14 1AJ, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+46 (0)8 533 39 500"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical@immedica.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.immedica.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+46 (0)8 533 39 500"
+    }
+  ]
+}

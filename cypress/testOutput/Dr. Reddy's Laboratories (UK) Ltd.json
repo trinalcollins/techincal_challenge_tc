@@ -1,0 +1,77 @@
+{
+  "name": "Dr. Reddy's Laboratories (UK) Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "1st Floor, Building 4, Uxbridge Business Park, Sanderson Road, Uxbridge, UB8 1DH, UK"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0) 800 028 5122"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0) 800 028 5122"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0) 800 028 5122"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@daiichi-sankyo.co.uk"
+    },
+    {
+      "Title": "Out of Hours Telephone",
+      "Value": "+44 (0) 800 028 5122"
+    },
+    {
+      "Title": "Address",
+      "Value": "Tatmore Place, Gosmore, Hitchin, Herts, SG4 7QR"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1462 458 866"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.dermal.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1462 420 565"
+    },
+    {
+      "Title": "Address",
+      "Value": "6 Riverview Road, Beverley, Hull, HU17 0LD"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1482 860228"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1748 828873"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1482 389858"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.drreddys.com/united-kingdom"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1482 860204"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "drreddysGB@EU.ProPharmaGroup.com"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0)1748 828801"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Daiichi Sankyo UK Limited",
+  "name": "Dermal Laboratories Limited",
   "customerDetails": [
     {
       "Title": "Address",
@@ -24,6 +24,22 @@
     {
       "Title": "Out of Hours Telephone",
       "Value": "+44 (0) 800 028 5122"
+    },
+    {
+      "Title": "Address",
+      "Value": "Tatmore Place, Gosmore, Hitchin, Herts, SG4 7QR"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1462 458 866"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.dermal.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1462 420 565"
     }
   ]
 }

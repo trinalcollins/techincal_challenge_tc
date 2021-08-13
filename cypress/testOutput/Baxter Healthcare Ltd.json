@@ -1,5 +1,57 @@
 {
   "name": "Baxter Healthcare Ltd",
-  "companyAddress": "\n\t\t\t\tCaxton Way, Thetford, Norfolk, IP24 3SE, UK\n\t",
-  "companyEmail": "\n\t\t\t\tmedinfo_uki@baxter.com\n\t\t\t\t\n\t"
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Brookdale Road, Thorncliffe Park Estate, Chapeltown, Sheffield, South Yorkshire, S35 2PW"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0114 225 9000"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "0800 298 0299"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "customercare.bbmuk@bbraun.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.bbraun.co.uk/en"
+    },
+    {
+      "Title": "E-mail",
+      "Value": "info.bbmuk@bbraun.com"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo.bbmuk@bbraun.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "Caxton Way, Thetford, Norfolk, IP24 3SE, UK"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1635 206071"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo_uki@baxter.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.baxterhealthcare.co.uk"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1635 206345"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0)1635 206071"
+    }
+  ]
 }

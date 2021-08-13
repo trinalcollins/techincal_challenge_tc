@@ -1,0 +1,53 @@
+{
+  "name": "Neon Healthcare Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Cambridge Science Park, Milton Road, Cambridge, Cambridgeshire, CB4 0GW"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1223 424 444"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.napp.co.uk"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinformationuk@napp.co.uk"
+    },
+    {
+      "Title": "Address",
+      "Value": "Mill Studio, Crane Mead, Ware,, Herts, SG12 9PY"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1920 444345"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "office@neonhealthcare.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "office@neonhealthcare.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.neonhealthcare.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1920 444345"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1920 444345"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "+44 (0)1920 444345"
+    }
+  ]
+}

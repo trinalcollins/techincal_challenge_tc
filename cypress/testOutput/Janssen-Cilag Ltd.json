@@ -1,0 +1,37 @@
+{
+  "name": "Janssen-Cilag Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "50 - 100 Holmers Farm Way, High Wycombe, Bucks, HP12 4EG"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1494 567 567"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)800 731 8450"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)800 731 5550"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.janssen-cilag.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1494 567 568"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@janssen-cilag.co.uk"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0) 1494 567 445"
+    }
+  ]
+}

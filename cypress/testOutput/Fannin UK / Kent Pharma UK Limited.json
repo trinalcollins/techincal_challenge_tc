@@ -1,0 +1,33 @@
+{
+  "name": "Fannin UK / Kent Pharma UK Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "The Bower, 4 Roundwood Avenue, Stockley Park, Heathrow, UB11 1AF"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "0845 437 5565"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1233 506 574"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "0800 220 280"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.kentpharm.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "0845 437 5567"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medical@kent-athlone.com"
+    }
+  ]
+}

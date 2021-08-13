@@ -1,0 +1,81 @@
+{
+  "name": "Syner-Medica Ltd",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Park View, Riverside Way, Watchmoor Park, Camberley, Surrey, GU15 3YL, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0) 1276 698020"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "Sandozgb@EU.propharmagroup.com"
+    },
+    {
+      "Title": "Adverse event reporting telephone",
+      "Value": "0845 601 1387"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.sandoz.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1276 698 101"
+    },
+    {
+      "Title": "Adverse event reporting email",
+      "Value": "uk.patientsafety@novartis.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "Sanofi, 410 Thames Valley Park Drive, Reading, Berkshire, RG6 1PT"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)800 035 2525"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)118 354 3000"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "uk-medicalinformation@sanofi.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "Syner-Med House, 120 High Street, Purley, Surrey, CR8 2AD"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)208 655 6380"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)208 655 6380"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)208 655 6380"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.syner-med.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)208 655 6398"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinformation@syner-med.com"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0)208 655 6398"
+    }
+  ]
+}

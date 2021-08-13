@@ -1,0 +1,29 @@
+{
+  "name": "Octapharma Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "The Zenith Building, 26 Spring Gardens, Manchester, Lancashire, M2 1AB"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)161 837 3770"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo.uk@octapharma.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.octapharma.co.uk"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)161 837 3799"
+    },
+    {
+      "Title": "Medical Information Fax",
+      "Value": "+44 (0)161 837 3799"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Typharm Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "1 Kingdom Street, London, W2 6BD, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 3333 000 181"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfoemea@takeda.com"
+    },
+    {
+      "Title": "WWW",
+      "Value": "www.takeda.com/en-gb/"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)3333 000 181"
+    },
+    {
+      "Title": "Drug Safety e-mail",
+      "Value": "AE.GBR-IRL@takeda.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "1, Thane Road West, NG2 3AA"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)115 968 6464"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1271 334 609"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1271 334 609"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://bcm-manufacturing.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0) 115 959 1098"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medicalinformation@jensongroup.com"
+    },
+    {
+      "Title": "Address",
+      "Value": "14D Wendover Road, Rackheath Industrial Estate, Norwich, Norfolk, NR13 6LH"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0)1603 722480"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)2037 694160"
+    },
+    {
+      "Title": "Customer Care direct line",
+      "Value": "+44 (0)1603 722480"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://typharm.com"
+    },
+    {
+      "Title": "Fax",
+      "Value": "+44 (0)1603 263804"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "medinfo@typharm.com"
+    },
+    {
+      "Title": "Stock Availability",
+      "Value": "+44 (0)1603 722480"
+    }
+  ]
+}

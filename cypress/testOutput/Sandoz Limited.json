@@ -1,0 +1,33 @@
+{
+  "name": "Sandoz Limited",
+  "customerDetails": [
+    {
+      "Title": "Address",
+      "Value": "Park View, Riverside Way, Watchmoor Park, Camberley, Surrey, GU15 3YL, UK"
+    },
+    {
+      "Title": "Telephone",
+      "Value": "+44 (0) 1276 698020"
+    },
+    {
+      "Title": "Medical Information e-mail",
+      "Value": "Sandozgb@EU.propharmagroup.com"
+    },
+    {
+      "Title": "Adverse event reporting telephone",
+      "Value": "0845 601 1387"
+    },
+    {
+      "Title": "WWW",
+      "Value": "http://www.sandoz.com"
+    },
+    {
+      "Title": "Medical Information Direct Line",
+      "Value": "+44 (0)1276 698 101"
+    },
+    {
+      "Title": "Adverse event reporting email",
+      "Value": "uk.patientsafety@novartis.com"
+    }
+  ]
+}
